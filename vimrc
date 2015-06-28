@@ -46,6 +46,8 @@ imap <C-p> <ESC><C-p>a<CR>
 nmap <C-n> :tabm +1<CR>
 imap <C-n> <ESC><C-n>a<CR>
 
+nnoremap k gk
+nnoremap j gj
 
 "顯示行號
 set nu
